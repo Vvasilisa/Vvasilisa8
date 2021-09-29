@@ -14,7 +14,7 @@ int main()
     P = A + B + C;
     p = P / 2;
     S = sqrt(p * (p - A) * (p - B) * (p - C));
-    cout << P << " " <<  S;
+    cout << "P = " << P << " S =  " <<  S;
 
 
 
